@@ -8,5 +8,5 @@ In this course we've leveraged Excel, SQL and Tableau in order to learn how to w
 in order to to deliver insights and create captiavting dashboards to solve business problems.
 
 This repo will include:
-A tableau dashboard to deliver insights to audience and stakeholders.
-A technical report and presentation to communicate key findings and help inform decision making
+A tableau dashboard to deliver insights to audience and stakeholders,
+a technical report and presentation to communicate key findings and help inform decision making
