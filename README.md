@@ -10,4 +10,4 @@ in order to deliver insights and create captiavting dashboards on Tableau to sol
 This repository will include:
 - A tableau dashboard to deliver insights to audience and stakeholders
 - A technical report to outline analytical approach and summary of findings
-- A presentation to communicate key findings and help inform decision making
+- A presentation to help navigate dashborard and communicate key findings to stakeholders to help inform in decision making
