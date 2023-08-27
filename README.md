@@ -1,4 +1,4 @@
-# Buisness-for-Analytics
+# Data Analytics for business
 Exploratory analysis and presenting insights.
 
 This repository contains analysis conducted on a global supermarket group to understand it's customers,
